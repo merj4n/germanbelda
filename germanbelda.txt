@@ -1,0 +1,3 @@
+1. Instal·lem Git i el configurem de manera que quede vinculat al nostre compte GitHub.
+
+2. Creem un directori de treball per al nostre repositori
